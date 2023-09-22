@@ -28,9 +28,9 @@ export default function page() {
       </div>
       <div className='flex flex-col justify-center items-center'>
         <h1 className='pt-10 font-bold text-sm'>Connect with me</h1>
-        <a href="https://instagram.com/giggasad" target='_blank' className='text-sm'>Instagram</a>
-        <a href="https://www.linkedin.com/in/aditya-paluskar-285698265/" target='_blank' className='text-sm'>Linkedin</a>
-        <a href="https://github.com/PaluskarAditya" target='_blank' className='text-sm'>GitHub</a>
+        <a href='https://instagram.com/giggasad' target='_blank' className='text-sm'>Instagram</a>
+        <a href='https://www.linkedin.com/in/aditya-paluskar-285698265/' target='_blank' className='text-sm'>Linkedin</a>
+        <a href='https://github.com/PaluskarAditya' target='_blank' className='text-sm'>GitHub</a>
       </div>
       <p className='text-sm py-10'>Thank you for visiting my Tech Blog. Stay connected with me on Instagram, GitHub, and LinkedIn to join the conversation and explore the limitless possibilities of technology and creativity. Together, we'll navigate the ever-evolving tech landscape.</p>
     </div>
