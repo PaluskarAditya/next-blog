@@ -1,0 +1,8 @@
+import BlogPost from '@/app/components/BlogPost'
+import React from 'react'
+
+export default function page({ img, img2, p1, p2, p3, p4, text }) {
+  return (
+    <BlogPost p1={'Blockchain technology, originally designed to underpin cryptocurrencies like Bitcoin, has transcended its initial use case to find applications across various industries. Its decentralized and tamper-resistant ledger system offers transparency and trust in a world where data integrity is paramount.'} p2={"One of the most promising applications of blockchain is in supply chain management. Companies are leveraging blockchain to track the movement of goods from origin to destination. This not only helps in ensuring product authenticity and quality but also reduces the risk of fraud and counterfeiting. Consumers can use their smartphones to scan QR codes and access detailed information about the products they purchase."} p3={"In healthcare, blockchain is being used to secure and streamline the sharing of patient records among different healthcare providers. Patients have more control over their medical data, granting permission for specific healthcare providers to access their records securely. This reduces administrative overhead, minimizes errors, and enhances patient privacy."} p4={"Nonetheless, as the technology matures and becomes more widely adopted, blockchain has the potential to revolutionize multiple industries by providing secure, transparent, and efficient solutions to long-standing problems."} img={'https://codevexia.ae/wp-content/uploads/distributed-ledger-system.jpg'} img2={'https://www.insiderintelligence.com/static/5ecb856d09def78da57ec3fac2f6ce5c/7fa24/blockchain.jpg'} text={'The Impact of Blockchain Beyond Cryptocurrency'}/>
+  )
+}

@@ -1,0 +1,8 @@
+import BlogPost from '@/app/components/BlogPost'
+import React from 'react'
+
+export default function page({ img, img2, p1, p2, p3, p4, text }) {
+  return (
+    <BlogPost p1={'The concept of a smart home, once relegated to science fiction, is rapidly becoming a reality for millions of households worldwide. Smart home technology, which encompasses a range of internet-connected devices and systems, is transforming the way we live, offering increased convenience, security, and energy efficiency.'} p2={"Voice-activated virtual assistants like Amazon's Alexa and Google Assistant serve as the central hubs of many smart homes. They allow users to control lights, thermostats, music, and more with simple voice commands. This hands-free control is not only convenient but also accessible to individuals with mobility challenges."} p3={"Smart thermostats, such as the Nest Learning Thermostat, learn user preferences and adjust heating and cooling systems accordingly, leading to energy savings and reduced utility bills. Similarly, smart lighting systems enable users to customize their lighting to suit different moods and scenarios, while also conserving energy through automation."} p4={"As smart home technology continues to evolve, we can expect more seamless integration of devices, improved energy efficiency, and enhanced user experiences. The ability to remotely monitor and control various aspects of our homes not only enhances convenience but also contributes to a more sustainable and secure living environment."} img={'https://cielowigle.com/wp-content/uploads/2021/03/woman-controlling-smart-home-appliances.jpg'} img2={'https://www.rd.com/wp-content/uploads/2022/08/GettyImages-1405467489.jpg?fit=700%2C1024'} text={'The Smart Home Revolution'}/>
+  )
+}
