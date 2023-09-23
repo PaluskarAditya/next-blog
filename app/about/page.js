@@ -12,19 +12,19 @@ export default function page() {
       </div>
       <div className='py-5'>
         <h3 className='text-sm font-bold'>A Deep Dive into AI and Machine Learning</h3>
-        <p className='text-sm'>Explore the fascinating world of AI and machine learning. I'll share practical insights, tutorials, and the latest trends in artificial intelligence and how it's shaping our future.</p>
+        <p className='text-sm'>Explore the fascinating world of AI and machine learning. Ill share practical insights, tutorials, and the latest trends in artificial intelligence and how its shaping our future.</p>
       </div>
       <div className='py-5'>
         <h3 className='text-sm font-bold'>Open Source: Collaborate and Contribute</h3>
-        <p className='text-sm'>GitHub is not just a code repository; it's a platform for collaboration and contribution. I'll guide you through the world of open source and how you can be a part of it.</p>
+        <p className='text-sm'>GitHub is not just a code repository; its a platform for collaboration and contribution. Ill guide you through the world of open source and how you can be a part of it.</p>
       </div>
       <div className='py-5'>
         <h3 className='text-sm font-bold'>The Future of Tech: Blockchain and Cryptocurrencies</h3>
-        <p className='text-sm'>Blockchain technology and cryptocurrencies are disrupting industries. I'll provide an overview, explore real-world applications, and discuss the potential impact on our daily lives.</p>
+        <p className='text-sm'>Blockchain technology and cryptocurrencies are disrupting industries. Ill provide an overview, explore real-world applications, and discuss the potential impact on our daily lives.</p>
       </div>
       <div className='py-5'>
         <h3 className='text-sm font-bold'> Building Your Tech Career</h3>
-        <p className='text-sm'>Whether you're a beginner or an experienced tech professional, advancing your career is crucial. I'll offer career advice, interview tips, and strategies to excel in the tech industry.</p>
+        <p className='text-sm'>Whether youre a beginner or an experienced tech professional, advancing your career is crucial. Ill offer career advice, interview tips, and strategies to excel in the tech industry.</p>
       </div>
       <div className='flex flex-col justify-center items-center'>
         <h1 className='pt-10 font-bold text-sm'>Connect with me</h1>
@@ -32,7 +32,7 @@ export default function page() {
         <a href='https://www.linkedin.com/in/aditya-paluskar-285698265/' target='_blank' className='text-sm'>Linkedin</a>
         <a href='https://github.com/PaluskarAditya' target='_blank' className='text-sm'>GitHub</a>
       </div>
-      <p className='text-sm py-10'>Thank you for visiting my Tech Blog. Stay connected with me on Instagram, GitHub, and LinkedIn to join the conversation and explore the limitless possibilities of technology and creativity. Together, we'll navigate the ever-evolving tech landscape.</p>
+      <p className='text-sm py-10'>Thank you for visiting my Tech Blog. Stay connected with me on Instagram, GitHub, and LinkedIn to join the conversation and explore the limitless possibilities of technology and creativity. Together, well navigate the ever-evolving tech landscape.</p>
     </div>
   )
 }
